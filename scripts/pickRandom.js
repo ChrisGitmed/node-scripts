@@ -7,7 +7,7 @@ const { argv } = Yargs(process.argv);
  * to the console.
  *
  * Invoke the script like this:
- * node app/scripts/pickRandom.js --arr='[1,2,3]' --n=1
+ * node scripts/pickRandom.js --arr='[1,2,3]' --n=1
  *
  * @param {JSON} arr - A JSON Array to select from
  * @param {Number} n - The number of items to select
