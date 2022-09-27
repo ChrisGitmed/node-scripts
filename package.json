@@ -1,0 +1,25 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "A collection of Node.js scripts I use to increase productivity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisGitmed/node-scripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisGitmed/node-scripts/issues"
+  },
+  "homepage": "https://github.com/ChrisGitmed/node-scripts#readme",
+  "dependencies": {
+    "js-shade": "^0.0.5",
+    "yargs": "^17.5.1"
+  },
+  "type": "module"
+}
