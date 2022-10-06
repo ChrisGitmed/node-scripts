@@ -1,6 +1,5 @@
 import { Shade } from 'js-shade';
-import Yargs from 'yargs';
-const { argv } = Yargs(process.argv);
+import { argv } from 'dark-args';
 
 /**
  * Picks a random selection of items from an array and logs them
