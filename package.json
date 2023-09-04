@@ -17,7 +17,8 @@
   "homepage": "https://github.com/ChrisGitmed/node-scripts#readme",
   "dependencies": {
     "dark-args": "^0.0.4",
-    "js-shade": "^0.0.5"
+    "js-shade": "^0.0.5",
+    "jszip": "^3.10.1"
   },
   "type": "module"
 }
